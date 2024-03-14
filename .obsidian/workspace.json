@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "d86956325229e888",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8af1725afdf1d11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c8d82328eaec6b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.Research/Data Sources/Data Source Shallow-dive Research.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0a15ae652c88c12a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4520c4e32f50acec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9ca57159b23485a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0e8c9732758bb750",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "00975e0ddcfcd2ea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5c9e324024d385bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "48b3e3c5f3bfe9cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88d58932cee16831",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1.Research/Data Sources/Data Source Shallow-dive Research.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a8050cb6223aa048",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1.Research/Data Sources/Data Source Shallow-dive Research.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24eac662a18fc229",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "52096edbcb31fd25",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1.Research/Data Sources/Data Source Shallow-dive Research.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1c8d82328eaec6b9",
+  "lastOpenFiles": [
+    "1.Research/Data Sources",
+    "Design.md",
+    "1.Research/Data Sources/Data Source Shallow-dive Research.md",
+    "2.Design",
+    "1.Research",
+    "Research.md"
+  ]
+}
